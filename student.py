@@ -1,6 +1,6 @@
 def calculate_average(marks):
     return sum(marks) / len(marks)
-
+#test
 
 def get_grade(average):
     if average >= 90:
