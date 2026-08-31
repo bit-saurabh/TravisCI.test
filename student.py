@@ -1,7 +1,7 @@
 def calculate_average(marks):
     return sum(marks) / len(marks)
 #test
-
+# Testing Travis CI automation
 def get_grade(average):
     if average >= 90:
         return "A+"
